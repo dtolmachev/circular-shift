@@ -1,3 +1,3 @@
 # circular-shift
 
-simple right circular shift 
+simple circular right shift 
